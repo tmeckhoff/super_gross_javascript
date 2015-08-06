@@ -1,0 +1,53 @@
+{
+  "noun1": {
+    "name": "arrays"
+  },
+  "noun2": {
+    "name": "objects"
+  },
+  "noun3": {
+    "name": "loops"
+  },
+  "noun4": {
+    "name": "MEAN stack"
+  },
+  "noun5": {
+    "name": "AJAX"
+  },
+  "noun6": {
+    "name": "json"
+  },
+  "noun7": {
+    "name": "javascript"
+  },
+  "noun8": {
+    "name": "express"
+  },
+  "noun9": {
+    "name": "server-side"
+  },
+  "noun10": {
+    "name": "client-side"
+  },
+  "noun11": {
+    "name": "boolean"
+  },
+  "noun12": {
+    "name": "function"
+  },
+  "noun13": {
+    "name": "argument"
+  },
+  "noun14": {
+    "name": "debugger"
+  },
+  "noun15": {
+    "name": "class"
+  },
+  "noun16": {
+    "name": "string"
+  },
+  "noun17": {
+    "name": "return"
+  }
+}
